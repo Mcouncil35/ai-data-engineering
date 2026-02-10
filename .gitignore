@@ -1,0 +1,89 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.whl
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+*.manifest
+*.spec
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# ===== Docker =====
+.docker/
+docker-compose.override.yml
+
+# ===== MySQL =====
+*.sql.gz
+mysql-data/
+db-data/
+
+# ===== VS Code =====
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# ===== OS Files =====
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ===== IDE / Editor =====
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Secrets / Credentials =====
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets/
