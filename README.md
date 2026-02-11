@@ -1,51 +1,83 @@
-# AI Data Engineering & Automation
+# AI Data Engineering Program Syllabus
 
-**12-Month Certificate Program** — Building automated data pipelines, integrating Generative AI as a system component, and operating ML/LLM workflows reliably in production environments.
+**Self-Directed Certificate Program** — Coursera Plus | No DeepLearning.AI Track
 
-**Core Stack:** MySQL | Python | VS Code | Docker | Apache Airflow | Git/GitHub
+Mirrors WGU B.S. Data Analytics structure and progression. Industry-aligned for AI Data Engineer roles.
 
----
-
-## Project Index
-
-| # | Project | Description | Timeline |
-|---|---------|-------------|----------|
-| 01 | [cs-toolkit](./01-cs-toolkit/) | Programming fundamentals — 8–12 solved problems with complexity analysis | Month 1 |
-| 02 | [Automation Data Validator](./02-automation-data-validator/) | Production-style data validation tool for industrial device events | Month 2 |
-| 03 | [Diagnostics Historian](./03-diagnostics-historian/) | MySQL database for industrial equipment diagnostics | Month 3 |
-| 04 | [ETL Pipeline](./04-etl-pipeline/) | Orchestrated ETL pipeline with Airflow + MySQL | Month 5 |
-| 05 | [Platform Design Doc](./05-platform-design-doc/) | Architecture design document for an industrial data platform | Month 6 |
-| 06 | [Industrial Event Processor](./06-industrial-event-processor/) | Operational intelligence from raw device events — anomaly detection, MTBF metrics | Month 7 |
-| 07 | [AI Diagnostics Summarizer](./07-ai-diagnostics-summarizer/) | LLM-powered summarization of diagnostic events | Month 10 |
-| 08 | [Prompt Pack + LLM Service](./08-prompt-pack-llm-service/) | Versioned prompts, evaluation harness, Dockerized FastAPI + LangChain service | Month 11 |
-| 09 | [Capstone: AI Platform](./09-capstone-ai-platform/) | End-to-end AI automation platform — Airflow + MySQL + FastAPI + monitoring | Month 12 |
-| — | [Portfolio: AI System Boundaries](./portfolio/ai-system-boundaries/) | AI literacy — when to use ML vs. rules, failure modes, responsible AI | Month 9 |
+**Core Stack:** Python | MySQL | Docker | VS Code
 
 ---
 
-## Getting Started
+## Program Overview
 
-### Prerequisites
+| | Term | Focus | Courses |
+|---|------|-------|---------|
+| 1 | **Term 1** | Foundations | Analytics, SQL, Python |
+| 2 | **Term 2** | Analysis & Modeling | Data Science, ML, Visualization |
+| 3 | **Term 3** | Engineering & Deployment | ETL, Cloud, MLOps |
+| 4 | **GenAI Layer** | Generative AI | GenAI Foundations, Applied GenAI |
+| 5 | **Capstone** | Full Integration | End-to-end project |
+
+---
+
+## Course List
+
+| # | Course | Provider |
+|---|--------|----------|
+| 1 | Introduction to Data Analytics | IBM |
+| 2 | Databases and SQL for Data Science with Python | IBM |
+| 3 | Python for Everybody Specialization | University of Michigan |
+| 4 | Applied Data Science with Python Specialization | University of Michigan |
+| 5 | Applied Machine Learning in Python | University of Michigan |
+| 6 | Data Visualization with Python | IBM |
+| 7 | ETL and Data Pipelines with Shell, Airflow & Kafka | IBM |
+| 8 | Data Engineering, Big Data, and ML on Google Cloud | Google Cloud |
+| 9 | Machine Learning in Production on Google Cloud | Google Cloud |
+| 10 | Introduction to Generative AI | Google Cloud |
+| 11 | Generative AI for Data Analysts | IBM |
+
+---
+
+## Portfolio Projects
+
+| Project | Term | Key Skills |
+|---------|------|------------|
+| Business Analytics Dashboard Database | Term 1 | SQL, Python, ERD, business analysis |
+| End-to-End ML Analysis with Visual Storytelling | Term 2 | pandas, scikit-learn, visualization, EDA |
+| Automated Cloud Data Pipeline with Deployed ML Model | Term 3 | Airflow, MySQL, Docker, MLOps |
+| GenAI-Augmented Data Analysis Tool | GenAI | LLM APIs, prompt engineering, automation |
+| Full-Stack AI Data Engineering Solution | Capstone | All skills combined |
+
+---
+
+## Syllabus Documents
+
+- **[AI_Data_Engineering_Syllabus.pdf](./AI_Data_Engineering_Syllabus.pdf)** — Full formatted syllabus (for viewing and markup)
+- **[AI_Data_Engineering_Syllabus.md](./AI_Data_Engineering_Syllabus.md)** — Markdown version (for editing)
+
+---
+
+## Graduate Competencies
+
+- SQL + Schema Design
+- Python Automation
+- Classical Machine Learning
+- Cloud Data Engineering
+- ETL Orchestration (Airflow)
+- Production ML Architecture
+- GenAI Workflow Integration
+
+---
+
+## Prerequisites
 
 - Python 3.10+
 - Docker & Docker Compose
-- VS Code with recommended extensions
+- VS Code with Jupyter extension
 - MySQL 8.0+ (runs via Docker)
 - Git & GitHub account
-
-### Clone & Run
-
-```bash
-git clone https://github.com/Mcouncil35/ai-data-engineering.git
-cd ai-data-engineering
-```
-
-Each project folder contains its own README with setup and run instructions.
+- Coursera Plus subscription
 
 ---
 
-## Program Structure
-
-- **Semester 1 (Months 1–4):** Foundations & Data Handling — Python, MySQL, Docker, Git
-- **Semester 2 (Months 5–8):** Data Engineering & Orchestration — Airflow, ETL, data modeling
-- **Semester 3 (Months 9–12):** GenAI + MLOps — LLMs, LangChain, FastAPI, monitoring
+> Fully Coursera Plus compatible. Avoids DeepLearning.AI dependency. 5 portfolio projects with progressive skill building.
