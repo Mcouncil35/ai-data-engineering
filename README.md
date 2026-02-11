@@ -8,45 +8,56 @@ Mirrors WGU B.S. Data Analytics structure and progression. Industry-aligned for 
 
 ---
 
-## Program Overview
-
-| | Term | Focus | Courses |
-|---|------|-------|---------|
-| 1 | **Term 1** | Foundations | Analytics, SQL, Python |
-| 2 | **Term 2** | Analysis & Modeling | Data Science, ML, Visualization |
-| 3 | **Term 3** | Engineering & Deployment | ETL, Cloud, MLOps |
-| 4 | **GenAI Layer** | Generative AI | GenAI Foundations, Applied GenAI |
-| 5 | **Capstone** | Full Integration | End-to-end project |
-
----
-
-## Course List
+## Term 1 — Foundations
 
 | # | Course | Provider |
 |---|--------|----------|
 | 1 | Introduction to Data Analytics | IBM |
 | 2 | Databases and SQL for Data Science with Python | IBM |
 | 3 | Python for Everybody Specialization | University of Michigan |
-| 4 | Applied Data Science with Python Specialization | University of Michigan |
-| 5 | Applied Machine Learning in Python | University of Michigan |
-| 6 | Data Visualization with Python | IBM |
-| 7 | ETL and Data Pipelines with Shell, Airflow & Kafka | IBM |
-| 8 | Data Engineering, Big Data, and ML on Google Cloud | Google Cloud |
-| 9 | Machine Learning in Production on Google Cloud | Google Cloud |
-| 10 | Introduction to Generative AI | Google Cloud |
-| 11 | Generative AI for Data Analysts | IBM |
+
+**Portfolio Project:** Business Analytics Dashboard Database
 
 ---
 
-## Portfolio Projects
+## Term 2 — Analysis & Modeling
 
-| Project | Term | Key Skills |
-|---------|------|------------|
-| Business Analytics Dashboard Database | Term 1 | SQL, Python, ERD, business analysis |
-| End-to-End ML Analysis with Visual Storytelling | Term 2 | pandas, scikit-learn, visualization, EDA |
-| Automated Cloud Data Pipeline with Deployed ML Model | Term 3 | Airflow, MySQL, Docker, MLOps |
-| GenAI-Augmented Data Analysis Tool | GenAI | LLM APIs, prompt engineering, automation |
-| Full-Stack AI Data Engineering Solution | Capstone | All skills combined |
+| # | Course | Provider |
+|---|--------|----------|
+| 4 | Applied Data Science with Python Specialization | University of Michigan |
+| 5 | Applied Machine Learning in Python | University of Michigan |
+| 6 | Data Visualization with Python | IBM |
+
+**Portfolio Project:** End-to-End ML Analysis with Visual Storytelling
+
+---
+
+## Term 3 — Engineering & Deployment
+
+| # | Course | Provider |
+|---|--------|----------|
+| 7 | ETL and Data Pipelines with Shell, Airflow & Kafka | IBM |
+| 8 | Data Engineering, Big Data, and ML on Google Cloud | Google Cloud |
+| 9 | Machine Learning in Production on Google Cloud | Google Cloud |
+
+**Portfolio Project:** Automated Cloud Data Pipeline with Deployed ML Model
+
+---
+
+## GenAI Layer
+
+| # | Course | Provider |
+|---|--------|----------|
+| 10 | Introduction to Generative AI | Google Cloud |
+| 11 | Generative AI for Data Analysts | IBM |
+
+**Portfolio Project:** GenAI-Augmented Data Analysis Tool
+
+---
+
+## Capstone
+
+**Portfolio Project:** Full-Stack AI Data Engineering Solution
 
 ---
 
